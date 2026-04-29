@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"   # cada 12 horas
   workflow_dispatch:           # permite correrlo manualmente
 
+permissions:
+  contents: write 
+
 jobs:
   generate:
     runs-on: ubuntu-latest
