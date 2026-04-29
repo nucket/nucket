@@ -56,11 +56,10 @@ using computer vision, gesture recognition ML, and embedded hardware (Raspberry 
 
 ## 🏆 Other Wins & Recognition
 
-- 🥇 **2017** — Smart City Arica Hackathon · Proyecto Punto Digital (Wakilabs IoT)
+- 🏆 **2017** — [Arica Smart City Award](https://www.aricaldia.cl/exitoso-resultado-de-la-hackathon-arica-smart-city/) · Hackathon Arica Smart City @ WAKI Labs · w/ Darwin Ramírez · Proyecto Punto Digital
 - 🥇 **2019** — Open Innovation Challenge, Asociación de Industriales de Iquique · Proyecto Vertrag
 - 🥇 **2020** — Open Innovation Challenge · Proyecto Pro Virtual
 - ™️ **2020** — Registered trademark **Vertrag®** (CVE 1817254)
-- 🎬 **2020** — Featured in *"Somos Chilenos"* documentary
 
 ---
 
