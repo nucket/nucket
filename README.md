@@ -89,7 +89,8 @@ using computer vision, gesture recognition ML, and embedded hardware (Raspberry 
 
 ### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Cinema4D](https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=maxon&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Shapr3D](https://img.shields.io/badge/Shapr3D-1C6FE0?style=for-the-badge&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
