@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6d28d9,100:0891b2&height=200&section=header&text=Naudy%20Castellanos&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Digital%20Transformation%20Advisor&descAlignY=60&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Digital+Transformation+Advisor+%F0%9F%9A%80;Founder+of+TALS+%F0%9F%A4%9F+%7C+CORFO+Winner+2018;Full-Stack+Web+Developer;Proxmox+Server+Administrator;SAP+%26+AI+Integration+Specialist;4+Languages+%C2%B7+4+Countries+%F0%9F%8C%8D;Social+Innovation+%7C+Sign+Language+Tech)](https://naudycastellanos.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Digital+Transformation+Advisor+%F0%9F%9A%80;Founder+of+VeanX+%F0%9F%A4%9F+%7C+CORFO+TALS+Winner+2018;Full-Stack+Web+Developer;Proxmox+Server+Administrator;SAP+%26+AI+Integration+Advisor;Social+Innovation+%7C+Sign+Language+Tech)](https://naudycastellanos.com)
 
 <br/>
 
