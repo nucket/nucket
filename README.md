@@ -110,7 +110,7 @@ using computer vision, gesture recognition ML, and embedded hardware (Raspberry 
 | 🏭 **SYSControl** | Real-time industrial production monitoring for SYSteel Portugal | Node.js · Socket.io · SQLite |
 | 🌱 **[SYSGreen.pt](https://sysgreen.pt)** | Biomass energy corporate platform | React · TypeScript · Supabase |
 | 🧏🏻 **[SurdiSOL](https://surdisol.naudycastellanos.com)** | Sign language accessibility platform | React · Next.js |
-| 🤖 **[NekoAI](https://github.com/nucket/nekoai)** | AI-powered project | TypeScript · AI |
+| 🐈 **[NekoAI](https://github.com/nucket/nekoai)** | AI-powered project | TypeScript · AI |
 | 🌐 **[Portfolio](https://naudycastellanos.com)** | Multilingual personal portfolio (ES/EN/PT/IT) | Next.js · Framer Motion · next-intl |
 
 ---
