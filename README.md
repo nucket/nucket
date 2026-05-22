@@ -140,7 +140,7 @@ using computer vision, gesture recognition ML, and embedded hardware (Raspberry 
 
 <div align="center">
 
-*"In a team there is never anyone strong who can do it alone, no one so weak that they cannot help"*
+*“A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.”* Wayne Gretzky
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6d28d9,100:0ea5e9&height=120&section=footer" />
 
