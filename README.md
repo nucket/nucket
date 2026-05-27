@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nucket&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/nucket)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=nucket&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/nucket)  -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-naudycastellanos.com-6d28d9?style=for-the-badge&logo=firefox&logoColor=white)](https://naudycastellanos.com)
 [![Email](https://img.shields.io/badge/Email-contacto%40naudycastellanos.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@naudycastellanos.com)
 
