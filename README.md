@@ -104,14 +104,24 @@ using computer vision, gesture recognition ML, and embedded hardware (Raspberry 
 
 ## 🚀 Featured Projects
 
+*Grouped by focus area — accessibility & AI first, then IoT, SaaS, corporate work, and consulting.*
+
 | Project | Description | Stack |
 |---|---|---|
-| 🤟 **[TALS / VeanX](https://vimeo.com/596279700)** | Autonomous Sign Language Translator · CORFO Winner · Computex Taipei 2018 | Computer Vision · ML · Raspberry Pi |
-| 🏭 **SYSControl** | Real-time industrial production monitoring for SYSteel Portugal | Node.js · Socket.io · SQLite |
-| 🌱 **[SYSGreen.pt](https://sysgreen.pt)** | Biomass energy corporate platform | React · TypeScript · Supabase |
-| 🧏🏻 **[SurdiSOL](https://surdisol.naudycastellanos.com)** | Sign language accessibility platform | React · Next.js |
-| 🐈 **[NekoAI](https://github.com/nucket/nekoai)** | AI-powered project | TypeScript · AI |
-| 🌐 **[Portfolio](https://naudycastellanos.com)** | Multilingual personal portfolio (ES/EN/PT/IT) | Next.js · Framer Motion · next-intl |
+| 🤟 **[TALG](https://talg.pt)** | Real-time LGP ↔ Portuguese sign-language translator — the TALS mission, live today | Astro · Three.js · MediaPipe |
+| 🧏🏻 **[SurdiSol Connect](https://surdisol.naudycastellanos.com)** | Support platform for the Deaf community in Viseu, Portugal | React · TypeScript · Vite |
+| 🐈 **[NekoAI](https://nekoai.dev)** | Open-source AI desktop pet with a local LLM brain — 100/100/100/100 Lighthouse | Tauri · Rust · React |
+| 🐃 **[ReproTrack](https://reprotrack.com)** | Asymmetric IoT system detecting cattle/buffalo heat via IMU + BLE + LoRaWAN | ESP32 · LoRaWAN · BLE |
+| 🐾 **[PetConnect247](https://petconnect247.com)** | Multi-country pet adoption SaaS — 5 countries, 3 languages | React · FastAPI · Supabase |
+| 🌱 **[SYSGreen.pt](https://sysgreen.pt)** | Biomass energy platform with multilingual ROI calculator & lead capture | React · TypeScript · Supabase |
+| 🏭 **[SYSControl](https://naudycastellanos.com/en/projects/syscontrol)** | Real-time production monitoring for SYSteel Group's cutting machines | Node.js · Socket.io · SQLite |
+| 🌐 **[GiWebs](https://giwebs.com)** | Studio for fast, organically-ranked sites + solidarity program for Venezuela | Astro · Cloudflare Workers · D1 |
+| 🌡️ **[RClimatol](https://rclimatol.eu)** | International open-access climatology journal, online since 2000 — full overhaul | WordPress · LaTeX · SEO |
+| 🚗 **[MotorHouse](https://motorhouse.cl)** | Engine diagnostics workshop site, Santiago de Chile | React · TypeScript · shadcn/ui |
+| 🌾 **[Medicagro](https://medicagro.com)** | High-performance landing page, zero heavy dependencies | Astro · Tailwind CSS · Cloudflare |
+| 🚜 **[Sermaqui](https://sermaqui.cl)** | Machinery rental & logistics site, 100% organic traffic | WordPress · Divi · Local SEO |
+| 🎧 **[TinniTune](https://tinnitune.naudycastellanos.com)** | Tinnitus frequency-mapping & sound-therapy tool, dependency-free | Web Audio API · Vanilla JS |
+| 🌐 **[Portfolio](https://naudycastellanos.com)** | This multilingual site (ES/EN/PT/IT) — full case studies for everything above | Next.js · Framer Motion · next-intl |
 
 ---
 
